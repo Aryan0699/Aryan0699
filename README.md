@@ -87,7 +87,7 @@ I'm a **B.Tech Computer Science student at IIT Jodhpur**, deeply interested in b
 
 ## 🏆 Achievements
 
-- 🥇 **Gold Medalist**, Inter IIT Tech Meet 14.0 (Pathway Problem Statement)  
+- 🥇 **Gold Medal**, Inter IIT Tech Meet 14.0 (Pathway Problem Statement)  
 - 🥇 **Department Rank 2**, CSE, IIT Jodhpur  
 - 📊 AIR 2705 in **JEE Advanced 2024** (Top 1.2%)  
 - 📈 99.94 percentile in **MHT-CET**  
