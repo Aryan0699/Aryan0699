@@ -64,26 +64,20 @@ I'm a **B.Tech Computer Science student at IIT Jodhpur**, deeply interested in b
 ### 🥇 Real-Time Fraud Detection System (Inter IIT – Pathway)
 - Production-grade **streaming-native ML system** using Pathway, Kafka, and River  
 - Sustained **70k+ txns/min**, sub-40ms end-to-end latency, exactly-once semantics  
-- Integrated **Neo4j fraud graphs**, **SHAP-based explainability**, and human-in-the-loop feedback  
-- Built with **full-stack observability** and continuous drift adaptation  
 
 ### 🤖 IntelliBrowse — Agentic Browser Automation
 - High-performance **planner–executor multi-agent system** using CrewAI & Playwright  
-- Executes complex multi-step web tasks (navigation, forms, interactions)  
-- Designed a **DOMSnapshot/CDP-based context pipeline**, reducing LLM context size by **60–70%**  
-- Real-time task progress streaming via WebSockets  
+- Executes complex multi-step web tasks (navigation, forms, interactions) and Real-time task progress streaming via WebSockets  
 
 ### 🧠 Dynamic Weighted SLPA (Graph Systems)
 - Dynamic, weighted **community detection** for evolving graphs (10⁵+ nodes)  
-- Achieved **15–50× faster incremental updates** via localized recomputation  
-- Built a recommendation loop over bipartite graphs with community-aware scoring  
-
+- Achieved **15–50× faster incremental updates** via localized recomputation
 ---
 
 ## 🏆 Achievements
 
 - 🥇 **Gold Medalist**, Inter IIT Tech Meet 14.0 (Pathway Problem Statement)  
-- 🥇 **Department Rank 1**, CSE, IIT Jodhpur  
+- 🥇 **Department Rank 2**, CSE, IIT Jodhpur  
 - 📊 AIR 2705 in **JEE Advanced 2024** (Top 1.2%)  
 - 📈 99.94 percentile in **MHT-CET**  
 
@@ -91,19 +85,10 @@ I'm a **B.Tech Computer Science student at IIT Jodhpur**, deeply interested in b
 
 ## 📚 Currently Focusing On
 
-- 🧩 Advanced **Data Structures & Algorithms**  
+- 🧩 **Data Structures & Algorithms**  
 - 🏗️ **System Design** fundamentals  
 - 🌐 **Networking & Distributed Systems**  
 - ⚙️ **DevOps**, containerization, and infra-level thinking  
-- 🤖 Scaling agentic systems from prototypes to production  
-
----
-
-## 📊 GitHub Stats
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan0699&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0699&layout=compact&theme=transparent)
-
 ---
 
 ## 🤝 Connect With Me
@@ -112,5 +97,12 @@ I'm a **B.Tech Computer Science student at IIT Jodhpur**, deeply interested in b
 - 🧠 **LeetCode**: https://leetcode.com/u/Aryan_Jain26/  
 
 ---
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan0699/Aryan0699/output/github-snake-dark.svg" />
+</p>
 
 > *I enjoy building systems that don’t just work — but keep working under scale, failures, and real-world constraints.*
+
+
