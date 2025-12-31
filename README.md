@@ -94,7 +94,9 @@ I'm a **B.Tech Computer Science student at IIT Jodhpur**, deeply interested in b
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/aryan-jain-771a9733b/  
-- 🧠 **LeetCode**: https://leetcode.com/u/Aryan_Jain26/  
+- 🧠 **LeetCode**: https://leetcode.com/u/Aryan_Jain26/
+- 📧 **Email**: aryanjain26006@gmail.com
+
 
 ---
 ## 🐍 Contribution Activity
