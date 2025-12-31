@@ -39,6 +39,7 @@ I'm a **B.Tech Computer Science student at IIT Jodhpur**, deeply interested in b
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 
 ### 🤖 Agentic AI & ML Systems
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Agentic-blue)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-green)
 ![Vector DB](https://img.shields.io/badge/Vector%20Databases-ML-orange)
